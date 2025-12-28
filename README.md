@@ -203,6 +203,7 @@
   <img src="https://github.com/JawadTechXD/KHAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
 
-  <h3> Thank you for visiting ❤️ 𝗟𝗢𝗩𝗘 𝗨 𝗛𝗢 𝗚𝗬𝗔 𝗧𝗛𝗔 𝗧𝗛𝗔 𝗞𝗥 𝗞 😜 </h3>
+  <h3> Thank you for visiting ❤️
+ 𝗟𝗢𝗩𝗘 𝗨 𝗛𝗢 𝗚𝗬𝗔 𝗧𝗛𝗔 𝗧𝗛𝗔 𝗞𝗥 𝗞 😜 </h3>
 </p>
 
