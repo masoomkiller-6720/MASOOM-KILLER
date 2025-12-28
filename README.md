@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/KING SAIFI TechXD">
-    <img src="https://img.shields.io/badge/_Follow_Us_Now-King-Saifi_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
+    <img src="https://img.shields.io/badge/_Follow_Us_Now-Jawad_TechX-9D00FF?style=for-the-badge&logo=follow" alt="Follow Badge" width="300">
   </a>
 </p>
 
