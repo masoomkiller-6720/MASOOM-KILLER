@@ -33,7 +33,7 @@
 
 ---
 
-## Support JawadTechXD
+## Support SaifTechXD
 
 <p align="center">
   <a href="https://github.com/JawadTechXD">
