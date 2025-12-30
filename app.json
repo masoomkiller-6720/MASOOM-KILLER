@@ -1,7 +1,7 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
+  "name": "MASOOM-KILLER",
+  "description": "Javascript WhatsApp bot made by KING SAIFI TᴇᴄʜX",
+  "logo": "https://i.ibb.co/CpmK36BM/20251212-101201.png",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "MASOOM-KILLER"
     }, 
       
     "PREFIX": {
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY MASOOM-KILLER 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "KING SAIFI TᴇᴄʜX"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923427582273"
+      "value": "923196550195"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "MASOOM-KILLER"
 
       }, 
 
